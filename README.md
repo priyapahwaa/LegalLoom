@@ -1,23 +1,54 @@
-🎯 Why Snap Notes?
+⚖️ LegalLoom – AI-Powered Legal Document Assistant
 
-With the increasing reliance on digital documents, manually extracting key insights from PDFs can be time-consuming. Snap Notes simplifies this process by integrating AI-driven features that allow users to generate meaningful summaries, ask contextual questions, and efficiently manage their study or work materials. Whether you're a student, researcher, or professional, Snap Notes enhances productivity by automating note-taking and improving document comprehension.
+🎯 Why LegalLoom?
+Legal documents are often long, complex, and filled with jargon, making them hard to understand for most people. Manually analyzing contracts, agreements, or policies can be overwhelming and time-consuming.
+
+LegalLoom simplifies this process by integrating AI-driven features that allow users to:
+
+📑 Summarize Legal Documents – Quickly extract the essence of lengthy agreements.
+
+🗂️ Understand Clauses in Plain Language – AI explains legal terms simply.
+
+🔍 Ask Questions from Legal PDFs – e.g., “What happens if rent is unpaid?”
+
+📂 Organize and Reuse Notes – Save summaries and explanations for multiple documents.
+
+Whether you are a student, lawyer, business founder, or professional, LegalLoom enhances productivity by making legal knowledge more accessible, understandable, and actionable.
 
 🌍 Future Enhancements
+We are continuously improving LegalLoom to provide a more powerful legal assistant experience. Some upcoming features include:
 
-We are continuously working on improving Snap Notes to provide a more seamless experience. Some upcoming features include:
+⚖️ Jurisdiction-Specific Explanations – Customize outputs for Indian, US, or EU law.
 
-Summarization Mode: AI-powered summaries for quick insights into lengthy documents.
-Collaboration Tools: Share and edit notes with team members in real-time.
-Handwriting Recognition: Convert handwritten notes from scanned PDFs into digital text.
-Multi-Language Support: Expand AI assistance for users in different languages.
-Stay tuned for updates as we evolve Snap Notes into a more powerful productivity tool!
+📊 Clause Comparison Tool – Compare multiple contracts side by side.
+
+👥 Collaboration Tools – Share interpretations with colleagues or clients in real-time.
+
+📝 Template Library – Pre-built agreements with AI-guided explanations.
+
+🌐 Multi-Language Support – Understand documents in multiple languages.
+
+Stay tuned as we evolve LegalLoom into a smarter, more practical legal productivity tool! 🚀
 
 💡 Contributing
-
-We welcome contributions from the open-source community! If you're interested in improving Snap Notes, feel free to:
+We welcome contributions from the open-source community! If you’re interested in improving LegalLoom, feel free to:
 
 Fork the Repository and create a new branch for your feature.
-Submit a Pull Request with a clear description of the changes.
-Ensure your code follows the project’s best practices and is well-documented.
-For feature suggestions or bug reports, please open an issue in the repository. Let's build something great together! 🚀
 
+Submit a Pull Request with a clear description of your changes.
+
+Ensure your code follows the project’s best practices and is well-documented.
+
+For feature suggestions or bug reports, please open an issue in the repository. Let’s build something impactful together! 💼✨
+
+📌 Sample Questions You Can Ask LegalLoom (Demo)
+
+“What happens if the tenant terminates the lease early?”
+
+“Is the security deposit refundable?”
+
+“What is the landlord’s responsibility for repairs?”
+
+“Can pets be kept under this agreement?”
+
+“What is the notice period for termination?”
